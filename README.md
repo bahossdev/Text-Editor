@@ -105,6 +105,6 @@ If you have any questions or need further assistance, feel free to reach out to 
   
 ![screenshot3](https://github.com/bahossdev/Text-Editor/assets/148646212/b897bc31-2c28-4541-9da0-041bf3c6cbfb)
 
-* Jate as an Installable App
+* JATE as an Installable App
   
 ![screenshot1](https://github.com/bahossdev/Text-Editor/assets/148646212/da943889-4407-43bb-bdbf-6284edf8c801)
