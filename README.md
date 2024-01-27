@@ -7,7 +7,7 @@
 [![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)](https://babeljs.io/)
 [![PWA](https://img.shields.io/badge/PWA-0056B3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
-# Text-Editor
+# Text Editor
 
 A single-page text editor app using PWA
 
@@ -35,7 +35,7 @@ This is a text editor web application developed as a single-page application (SP
 - **Automatic Content Saving**: Automatically saves content inside the text editor when the DOM window is unfocused, ensuring that no data is lost.
 - **Webpack Bundling**: Bundled with webpack for optimized performance and efficient loading of assets.
 - **Service Worker**: Includes a service worker for caching static assets, enabling fast loading and offline access.
-- **Supporting Async/Await Operations**: Uses Babel to transpile code and support async/await syntax for asynchronous operations.
+- **Babel Transpilation**: Ensures compatibility with older browsers by transpiling next-gen JavaScript code into a backward-compatible version, allowing the text editor to function smoothly across different environments.
 - **Installability**: Can be installed as a Progressive Web Application, providing users with an app-like experience, including offline access and push notifications.
 
 ## Installation
