@@ -94,10 +94,17 @@ If you have any questions or need further assistance, feel free to reach out to 
 
 ## Screenshots
 * JATE in the Browser
+  
 ![screenshot](https://github.com/bahossdev/Text-Editor/assets/148646212/d474b82b-4f2d-4749-a90f-5c071ab43aab)
+
 * JATE Service Worker
+  
 ![screenshot2](https://github.com/bahossdev/Text-Editor/assets/148646212/ecfe9bf3-de6d-4fb1-b2e6-f0de54394bce)
+
 * JATE Manifest
+  
 ![screenshot3](https://github.com/bahossdev/Text-Editor/assets/148646212/b897bc31-2c28-4541-9da0-041bf3c6cbfb)
+
 * Jate as an Installable App
+  
 ![screenshot1](https://github.com/bahossdev/Text-Editor/assets/148646212/da943889-4407-43bb-bdbf-6284edf8c801)
