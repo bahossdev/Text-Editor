@@ -93,18 +93,23 @@ The application is deployed on Render. You can access it [here](#insert_deployed
 If you have any questions or need further assistance, feel free to reach out to me by [email](mailto:bahoss.dev@gmail.com).
 
 ## Screenshots
-* JATE in the Browser
-  
-![screenshot](https://github.com/bahossdev/Text-Editor/assets/148646212/d474b82b-4f2d-4749-a90f-5c071ab43aab)
+* **JATE in the Browser**
+<center>
+<img src="https://github.com/bahossdev/Text-Editor/assets/148646212/d474b82b-4f2d-4749-a90f-5c071ab43aab" alt="screenshot" width="700" />
+</center>
 
-* JATE Service Worker
-  
-![screenshot2](https://github.com/bahossdev/Text-Editor/assets/148646212/ecfe9bf3-de6d-4fb1-b2e6-f0de54394bce)
+* **JATE Service Worker**
+<center>
+<img src="https://github.com/bahossdev/Text-Editor/assets/148646212/ecfe9bf3-de6d-4fb1-b2e6-f0de54394bce" alt="screenshot" width="700" />
+</center>  
 
-* JATE Manifest
-  
-![screenshot3](https://github.com/bahossdev/Text-Editor/assets/148646212/b897bc31-2c28-4541-9da0-041bf3c6cbfb)
+* **JATE Manifest**
+ <center>
+<img src="https://github.com/bahossdev/Text-Editor/assets/148646212/b897bc31-2c28-4541-9da0-041bf3c6cbfb" alt="screenshot" width="700" />
+</center>   
 
-* JATE as an Installable App
-  
-![screenshot1](https://github.com/bahossdev/Text-Editor/assets/148646212/da943889-4407-43bb-bdbf-6284edf8c801)
+* **JATE as an Installable App**
+ <center>
+<img src="https://github.com/bahossdev/Text-Editor/assets/148646212/da943889-4407-43bb-bdbf-6284edf8c801" alt="screenshot" width="700" />
+</center>  
+
